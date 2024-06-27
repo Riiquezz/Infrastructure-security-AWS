@@ -4,6 +4,7 @@
 Terraform
 
 # 2. Provision example single page application following the architecture diagram below
+Terraform Template (main.tf)
 ```
 provider "aws" {
   region = "us-east-1"
