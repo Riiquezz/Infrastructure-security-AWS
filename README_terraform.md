@@ -1,4 +1,4 @@
-# Infrastructure-security-AWS
+# Terraform Example
 
 # 1. Pick an infrastructure as a code tool of choice
 Terraform
